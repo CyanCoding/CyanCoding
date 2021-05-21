@@ -7,11 +7,11 @@ Hey there! 👋
 
 I'm CyanCoding aka Camden Mac Leod!
 
-I'm a hobbyist teen coder with 6 years of experience in over 20 different languages. I mostly build small projects, but I am expanding and learning new systems like Xamarin and UWP. I like to code on Windows 10 in C# and C++. I have a huge passion for Linux but I'm 100x more productive on Windows 10, so that's what I use mostly.
+I'm a hobbyist teen coder with 6 years of experience in over 20 different languages. I mostly build small projects, but I am expanding and learning new systems like Xamarin, QT, and UWP. I like to code on Windows 10 in C# and C++. I also sometimes use Ubuntu Linux. Currently I'm running Ubuntu 20.04.2 LTS on my main PC.
 
 I hope to get a major in CPU engineering and Business and work at Microsoft. 👨‍💻
 
-I am pretty new to GitHub because I didn't understand it or have a use for it until about a year ago. I hope to use it a lot more over the next few years to stay organized and collaborate!<br><br>
+I am pretty new to GitHub because I didn't understand it or have a use for it until about a year ago. I am going to use it a lot more over the next few years to stay organized and collaborate!<br><br>
 ![CyanCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyancoding&show_icons=true&include_all_commits=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyancoding&layout=compact&theme=cobalt)
 
