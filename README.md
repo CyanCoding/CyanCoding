@@ -7,7 +7,7 @@ Hey there! 👋
 
 I'm CyanCoding aka Camden Mac Leod!
 
-I'm a hobbyist teen coder with 6 years of experience in over 20 different languages. I mostly build small projects, but I am expanding and learning new systems like Xamarin, QT, and UWP. I like to code on Windows 10 in C# and C++. I also sometimes use Ubuntu Linux. Currently I'm running Ubuntu 20.04.2 LTS on my main PC.
+I'm a hobbyist teen coder with 6 years of experience in over 20 different languages. I mostly build small projects, but I am expanding and learning new systems like Xamarin, QT, and UWP. I like to code on Windows 11 in Go, C#, and C++. I also sometimes use different Linux. I'm a bit of a distro hopper, so I enjoy trying different Linux distros.
 
 I hope to get a major in CPU engineering and Business and work at Microsoft. 👨‍💻
 
