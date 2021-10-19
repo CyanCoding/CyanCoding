@@ -1,30 +1,43 @@
 ## CyanCoding aka Camden Mac Leod
 Hey there! 👋
 
+`Console.Write("Hello World!")`
+
 
 ### About me:
-`cout << "Hello world!"`
 
-I'm CyanCoding aka Camden Mac Leod!
+My name is Camden Mac Leod, but I write code under CyanCoding - a fun nickname I came up with my friend a few years back. I've been coding since I was 11 (that's 6.5 years). I've coded in over 25 different languages, but my favorites are C#, C++, and Go.<br>
 
-I'm a hobbyist teen coder with 6 years of experience in over 20 different languages. I mostly build small projects, but I am expanding and learning new systems like Xamarin, QT, and UWP. I like to code on Windows 11 in Go, C#, and C++. I also sometimes use different Linux. I'm a bit of a distro hopper, so I enjoy trying different Linux distros.
+- C# (since 2018) - my favorite language of all time, mostly because it's easy to read, runs and builds very well, and has pretty much everything I need.
+- C++ (since 2018) - I'm pretty good with C++ but it's overly complicated for many of my purposes so I usually sacrifice the speed for a simpler language like C#.
+- Go (since 2021) - My second favorite language! I love how modern it is and it's easy enough to code in, but the performance is horrifying.
 
-I hope to get a major in CPU engineering and Business and work at Microsoft. 👨‍💻
+I also like Kotlin, but I don't have much use for it and the JVM isn't my favorite.
 
-I am pretty new to GitHub because I didn't understand it or have a use for it until about a year ago. I am going to use it a lot more over the next few years to stay organized and collaborate!<br><br>
+<br><br>
+`CyanCoding.PrintGithubStats();`
+
 ![CyanCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyancoding&show_icons=true&include_all_commits=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyancoding&layout=compact&theme=cobalt)
+<br><br>
 
+`go run main todolist`
 
 ### To-Do List:
-- Graduate high school
-- Attend the University of Central Florida and major in Computer Engineering and Business Administration
-- Work at a big tech company like Microsoft
-- Work my way up through the corporate ladder with my business degree
-- Become a CEO
-- Buy a blue Rolls-Royce Ghost
-- Become a multi-millionaire and go on expensive ski trips with my buddies
+- [x] Win a coding competition
+- [ ] Graduate high school
+- [ ] Attend University of Central Florida (UCF)
+- [ ] Graduate with a bachelors in Computer Engineering
+- [ ] Get an MBA
+- [ ] Work at a big tech company like Microsoft
+- [ ] Work on/create a small startup
+- [ ] Become a CEO
+- [ ] Buy a Rolls Royce Ghost
 <br><img src="https://github.com/CyanCoding/CyanCoding/blob/main/ghost.jpg" alt="Rolls-Royce Ghost" width="200">
+
+<br>
+
+`cout << socialMediaLinks() << endl;`
 
 ### Links:
 - [Email](mailto:skyecam21@gmail.com)
