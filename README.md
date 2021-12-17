@@ -1,62 +1,41 @@
-## CyanCoding aka Camden Mac Leod
-Hey there! 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/CyanCoding/CyanCoding/main/banner-resized.png" alt="My banner">
+</p>
 
-`Console.Write("Hello World!")`
+<h3 align="center">
+Hey! I'm CyanCoding! 👋 <br><br>
+Linux 💻 - Algorithms 📊 - Systems programming 📀
+</h3>
 
+I love, love, **love** Linux! Creating algorithms, solving math problems with my computer, creating fun programs with my main languages, and learning new ones are just a few of my favorite things to do.
 
-### About me:
+### 📞 Reach out
+<a href="https://instagram.com/its_actually_cam"><img src="https://img.shields.io/badge/<its_actually_cam>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.snapchat.com/add/camden.macleod"><img src="https://img.shields.io/badge/<camden.macleod>-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
+<a href="mailto:camden.macleod@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 
-My name is Camden Mac Leod, but I write code under CyanCoding - a fun nickname I came up with my friend a few years back. I've been coding since I was 11 (that's 6.5 years). I've coded in over 25 different languages, but my favorites are C#, C++, and Go.<br>
+ - If you have any feedback for me, please let me know! 😃
 
-- C# (since 2018) - my favorite language of all time, mostly because it's easy to read, runs and builds very well, and has pretty much everything I need.
-- C++ (since 2018) - I'm pretty good with C++ but it's overly complicated for many of my purposes so I usually sacrifice the speed for a simpler language like C#.
-- Go (since 2021) - My second favorite language! I love how modern it is and it's easy enough to code in, but the performance is horrifying.
-
-I also like Kotlin, but I don't have much use for it and the JVM isn't my favorite.
-
-<br><br>
-`CyanCoding.PrintGithubStats();`
-
-![CyanCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyancoding&show_icons=true&include_all_commits=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyancoding&layout=compact&theme=cobalt)
-<br><br>
-
-`go run main todolist`
-
-### To-Do List:
-- [x] Win a coding competition
-- [ ] Graduate high school
-- [ ] Attend University of Central Florida (UCF)
-- [ ] Graduate with a bachelors in Computer Engineering
-- [ ] Get an MBA
-- [ ] Work at a big tech company like Microsoft
-- [ ] Work on/create a small startup
-- [ ] Become a CEO
-- [ ] Buy a Rolls Royce Ghost
-<br><img src="https://github.com/CyanCoding/CyanCoding/blob/main/ghost.jpg" alt="Rolls-Royce Ghost" width="200">
-
+## 💪 My skills and technologies
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <br>
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br>
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-`cout << socialMediaLinks() << endl;`
+## 🔮 Current/future learning
+ - Image and file encryption
+ - Development of operating systems and kernels
+ - Using APIs
 
-### Links:
-- [Email](mailto:skyecam21@gmail.com)
-- [Instagram](https://www.instagram.com/its_actually_cam/)
-- [Snapchat](https://www.snapchat.com/add/camden.macleod)
-- [Stackoverflow](https://stackoverflow.com/users/8156202/cyancoding)
-
-<!--
-**CyanCoding/CyanCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 📈 GitHub stats
+![CyanCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyancoding&show_icons=true&include_all_commits=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyancoding&layout=compact)
