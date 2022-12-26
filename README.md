@@ -9,11 +9,6 @@ Linux 💻 - Algorithms 📊 - Systems programming 📀
 
 I love, love, **love** Linux! Creating algorithms, solving math problems with my computer, creating fun programs with my main languages, and learning new ones are just a few of my favorite things to do.
 
-### 📞 Reach out
-<a href="https://instagram.com/its_actually_cam"><img src="https://img.shields.io/badge/<its_actually_cam>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.snapchat.com/add/camden.macleod"><img src="https://img.shields.io/badge/<camden.macleod>-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
-<a href="mailto:camden.macleod@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
-
  - If you have any feedback for me, please let me know! 😃
 
 ## 💪 My skills and technologies
@@ -31,8 +26,8 @@ I love, love, **love** Linux! Creating algorithms, solving math problems with my
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔮 Current/future learning
- - Image and file encryption
- - Development of operating systems and kernels
+ - Learning rust! 🦀
+ - Working on a homework calendar with Canvas integration
  - Using APIs
 
 ## 📈 GitHub stats
